@@ -1,6 +1,6 @@
 # Electron Based Crypto Price Alert Desktop App
 
-This is a cross platform shoppinglist desktop application built on electron
+This is a cross-platform cryptocurrency price alert desktop application built on electron
 
 ## Quick Start
 
